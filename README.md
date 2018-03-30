@@ -2,6 +2,7 @@
 This script will calculate your macros to meet your physique goals.
 
 To run this script, simply download or clone this repo.
+
 0. Be sure to have Python installed.
 1. Navigate to the .py file location.
 2. You can run the .py file either from IDLE (Python Editor), PowerShell, CMD or Terminal.
