@@ -1,0 +1,80 @@
+Calculation Example/Logic
+
+Macros Calculator
+
+MIT License
+
+Copyright (c) 2018 Casey Chad Salvador
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+5'8" Height
+206 lbs Bodyweight
+
+Formula: Bodyweight x 14 through 16 (14 - 16 is a scale for fitness intensity)
+So, 206 x 14 = 2884 cal (desk job, less fitness throughout the day)
+So, 206 x 15 = 3090 cal (moderate fitness)
+So, 206 x 16 = 3296 cal (active all day)
+
+To maintain current weight must meet 2884 calories
+we want to get shredded so subtract 500
+therefore our target is now 2384 calories
+if you would like to gain, add 500
+
+Calories Per Gram
+Protein = 4 calories per gram
+Fat = 9 calories per gram
+Carbohydrate = 4 calories per gram
+
+Calculate Macros for Protein
+Bodyweight x .75 - 1.25 grams per lb (g/lb)
+206 x .75 - 1.25
+.75 = 154.5g/lb     |        1 = 206g/lb          | 1.25 = 257.5g/lb
+New to Training     |   In Shape 20% body fat     | Competing in Competition
+So in my case, 206g/lb per day
+
+Calculate Macros for Fat
+Bodyweight x .3 - .4 grams
+206 x .3 = 61.8g (Carbs are life)
+206 x .35 = 72.1g ("Whatever")
+206 x .4 = 82.4g (Love Fatty Foods, i.e. Nuts, Butters)
+So in my case, 62g carbs per day (Carbs help with performance more than fats)
+
+Calculate Macros for Carbohydrates
+So Goal Calories is 2384cal
+Look at Calories Per Gram to calculate Carbs
+Protein: 206 x 4 = 824cal
+Fat: 62 x 9 = 558cal
+Add Protein Cal & Fat Cal: 824 + 558 = 1382cal
+Subtract Goal Calories 2384 - 1382 = 1002cal So Carbs: 1002cal
+Carbs: 1002cal / 4 =  250.5 So, 251g of Carbohydrates
+
+Final Macros
+P: 206g at 824cal
+F: 62g at 558cal
+C: 251g at 1002cal
+Cal: 2384cal per day
+
+Calculating your avg weight
+Starting 206
+Week 1 = 7days of weigh in and avg it out and so forth
+When you notice you are slowly cutting avg weight start pulling away from Carbs about 15g or do more cardio
+you can also bring down your fat as well for example 62g down to 58g - 50g
