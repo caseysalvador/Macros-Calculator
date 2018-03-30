@@ -81,9 +81,9 @@ def calories(weight):
 
 cals = calories(weight)
 
-protein = protein(weight)
+protein = round(protein(weight))
 
-fat = fat(weight)
+fat = round(fat(weight))
 
 ## Create New Physique
 def physique(cals):
@@ -119,7 +119,7 @@ def carbs(carbCal):
     carb = carbCal / 4
     return carb
 
-carb = carbs(carbCal)
+carb = round(carbs(carbCal))
 
 print("")
 
@@ -128,4 +128,4 @@ print("Macros")
 print("Protein: " + str(protein) + "g")
 print("Fat: " + str(fat) + "g")
 print("Carbohydrate: " + str(carb) + "g")
-print("Total Calories per day: " + str(phyCal) + "cal")
+print("Total Calories per day: " + str(round(phyCal)) + "cal")
